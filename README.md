@@ -53,3 +53,44 @@ Each data structure or algorithm is encapsulated in a class, ensuring modularity
  - Queue<T>
  - BinarySearchTree<T>
  - ArrayX<T>
+
+# Usage
+## Example
+Here is an example of using Singly Linear Linked List:
+```
+#include "collection.cpp"
+using namespace std;
+
+int main()
+{
+    SinglyLL<int> *iobj = new SinglyLL<int>();
+    int iRet = 0;
+
+    iobj->InsertFirst(51);
+    iobj->InsertFirst(21);
+    iobj->InsertFirst(11);
+
+    iobj->Display();
+    iRet = iobj->Count();
+    cout << "Number of elemensts are : " << iRet << endl;
+
+    return 0;
+}
+```
+### Compilation
+To compile the code, use the following command:
+```bash
+g++ collection.cpp collectionUse.cpp -o Myexe
+```
+
+### Execution
+To execute the code, use the following command:
+```bash
+Myexe.exe
+```
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Author
+Gaurav Mahadev Shinde
