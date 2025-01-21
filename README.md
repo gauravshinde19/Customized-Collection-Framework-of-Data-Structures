@@ -56,7 +56,7 @@ Each data structure or algorithm is encapsulated in a class, ensuring modularity
 
 # Usage
 ## Example
-Here is an example of using Singly Linear Linked List:
+Here is an example of using Singly Linear Linked List: `collectionUse.cpp`
 ```
 #include "collection.cpp"
 using namespace std;
