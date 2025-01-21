@@ -30,4 +30,26 @@ This repository contains a comprehensive collection of data structures and algor
 ### Compilation
 To compile the code, use the following command:
 ```bash
-g++ -o collection.cpp
+g++ collection.cpp -o Myexe
+```
+
+### Execution
+To execute the code, use the following command:
+```bash
+Myexe.exe
+```
+
+# Project Structure
+## Files
+- collection.cpp: Contains the implementation of all data structures and algorithms.
+
+## Classes and Templates
+Each data structure or algorithm is encapsulated in a class, ensuring modularity and reusability.
+ - SinglyLL<T>
+ - DoublyLL<T>
+ - SinglyCL<T>
+ - DoublyCL<T>
+ - Stack<T>
+ - Queue<T>
+ - BinarySearchTree<T>
+ - ArrayX<T>
