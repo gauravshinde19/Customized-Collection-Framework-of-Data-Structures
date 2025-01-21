@@ -41,18 +41,18 @@ Myexe.exe
 
 # Project Structure
 ## Files
-- collection.cpp: Contains the implementation of all data structures and algorithms.
+- `collection.cpp`: Contains the implementation of all data structures and algorithms.
 
 ## Classes and Templates
 Each data structure or algorithm is encapsulated in a class, ensuring modularity and reusability.
- - SinglyLL<T>
- - DoublyLL<T>
- - SinglyCL<T>
- - DoublyCL<T>
- - Stack<T>
- - Queue<T>
- - BinarySearchTree<T>
- - ArrayX<T>
+ - `SinglyLL<T>`
+ - `DoublyLL<T>`
+ - `SinglyCL<T>`
+ - `DoublyCL<T>`
+ - `Stack<T>`
+ - `Queue<T>`
+ - `BinarySearchTree<T>`
+ - `ArrayX<T>`
 
 # Usage
 ## Example
@@ -90,7 +90,7 @@ Myexe.exe
 ```
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 # Author
 Gaurav Mahadev Shinde
