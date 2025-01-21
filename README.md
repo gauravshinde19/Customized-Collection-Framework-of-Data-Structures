@@ -24,7 +24,7 @@ This repository contains a comprehensive collection of data structures and algor
 ## Getting Started
 
 ### Prerequisites
-- A C++ compiler (e.g., GCC, Clang, MSVC)
+- A C++ compiler (e.g., GCC)
 - Basic understanding of C++ templates and pointers
 
 ### Compilation
