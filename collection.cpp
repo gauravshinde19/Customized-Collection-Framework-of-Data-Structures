@@ -1596,3 +1596,9 @@ void ArrayX<T>::InsertionSort()
         Arr[j + 1] = selected;
     }
 }
+
+int main()
+{
+
+    return 0;
+}
